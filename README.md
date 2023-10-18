@@ -12,7 +12,7 @@ Mostly working as a webdev these days ~~and suffering~~, but also interested in 
 
 ## Cool things ive worked on which you should totally check out
 
-- [Goonstation](goonstation/goonstation)
+- [Goonstation](https://github.com/goonstation/goonstation)
 
   Weird social roleplay game set on a spacestation made in the most cursed engine you've probably never heard of.
 
