@@ -6,7 +6,7 @@ You can call me Lynn, Lux or ~~Jelmer~~.
 
 They/them but i'm fine with anything really.
 
-Mostly working as a webdev these days ~~and suffering~~, but also interested in anything VR, rust.
+Mostly working as a webdev these days ~~and suffering~~, but also interested in anything VR or rust.
 
 ## Cool things ive worked on which you should totally check out
 
