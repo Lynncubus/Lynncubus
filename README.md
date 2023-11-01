@@ -1,7 +1,5 @@
 # Hi, i do a thing here sometimes.
 
-> Recently changed my username from `Luxizzle` to `Lynncubus`. I'm sorry if you ever for some crazy reason depended on one of my projects.
-
 Genderconfused and a programmer, name a better combination.
 
 You can call me Lynn, Lux or ~~Jelmer~~. 
