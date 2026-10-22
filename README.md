@@ -19,5 +19,5 @@ Mostly working as a webdev these days ~~and suffering~~, but also interested in 
 I barely use social media these days, theyre bad for my lil chaos brain, but you can try i guess.
 
 - https://lynncubus.com
-- https://lynncubus.bsky.social
+- https://bsky.app/profile/lynncubus.com
 - https://www.twitch.tv/Lynncubus
